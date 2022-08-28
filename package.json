@@ -1,0 +1,14 @@
+{
+  "name": "grpc-proto",
+  "version": "1.0.0",
+  "description": "Proto for asset management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "proto"
+  ],
+  "author": "Milan Amatya",
+  "license": "ISC"
+}
